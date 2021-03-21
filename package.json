@@ -1,0 +1,11 @@
+{
+  "name": "sn-theme-callisto",
+  "version": "0.1.0",
+  "sn": {
+    "main": "main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lissy93/callisto-theme-standard-notes"
+  }
+}

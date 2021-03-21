@@ -1,0 +1,14 @@
+{
+  "identifier": "com.aliciasykes.aht-theme",
+  "name": "Callisto Theme for StandardNotes",
+  "content_type": "SN|Theme",
+  "version": "1.0.0",
+  "description": "Dusty background with teal accents",
+  "url": "https://listed.to/p/ws16hyIrmT",
+	"dock_icon": {
+		"type": "circle",
+   	"background_color": "#0b1021",
+   	"foreground_color": "#d6085a",
+   	"border_color": "#1EE3B5"
+	}
+}
