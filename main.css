@@ -28,7 +28,7 @@
   --sn-stylekit-success-color: var(--success);
   --sn-stylekit-success-contrast-color: var(--primary-lighter);
   --sn-stylekit-warning-color: var(--warning);
-  --sn-stylekit-warning-contrast-color: var(--white);
+  --sn-stylekit-warning-contrast-color: var(--primary-lighter);
   --sn-stylekit-danger-color: var(--danger);
   --sn-stylekit-danger-contrast-color: var(--white);
 
@@ -55,4 +55,7 @@
   --sn-stylekit-paragraph-text-color: var(--white);
   --sn-stylekit-scrollbar-track-border-color: var(--accent-darker);
   --sn-stylekit-scrollbar-thumb-color: var(--accent);
+
+  --sn-stylekit-general-border-radius: 4px;
+  --sn-stylekit-monospace-font:  "Hack", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, "Ubuntu Mono", "Courier New", monospace;
 }
