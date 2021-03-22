@@ -46,7 +46,7 @@
   --sn-stylekit-secondary-background-color: var(--bg-darker);
   --sn-stylekit-secondary-foreground-color: var(--white);
   --sn-stylekit-secondary-border-color: var(--very-dark-acsent);
-  --sn-stylekit-secondary-contrast-background-color: var(--third-acsent);
+  --sn-stylekit-secondary-contrast-background-color: var(--very-dark-acsent);
   --sn-stylekit-secondary-contrast-foreground-color: var(--white);
   --sn-stylekit-secondary-contrast-border-color: var(--third-acsent);
   --sn-stylekit-editor-background-color: var(--bg-color);
