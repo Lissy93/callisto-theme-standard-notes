@@ -50,7 +50,7 @@
   --sn-stylekit-secondary-contrast-background-color: var(--accent-darker);
   --sn-stylekit-secondary-contrast-foreground-color: var(--white);
   --sn-stylekit-secondary-contrast-border-color: var(--secondary-accent);
-  --sn-stylekit-editor-background-color: var(--bg-color);
+  --sn-stylekit-editor-background-color: var(--primary);
   --sn-stylekit-editor-foreground-color: var(--white);
   --sn-stylekit-paragraph-text-color: var(--white);
   --sn-stylekit-scrollbar-track-border-color: var(--accent-darker);
