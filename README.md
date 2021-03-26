@@ -2,16 +2,16 @@
 ## Screenshots
 
 <p align="center">
-  <img src="https://i.ibb.co/gFBfZSc/callisto-1.png"
-    alt="Screenshot of Authentication Screen"
-    title="Screenshot of Authentication Screen"
+  <img src="https://i.ibb.co/PGTCTT1/sn-callisto-screenshot-1.png"
+    alt="Screenshot"
+    title="Screenshot"
   />
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/7QMmNQR/callisto-2.png"
-    alt="Screenshot"
-    title="Screenshot"
+  <img src="https://i.ibb.co/HGNr2f7/sn-callisto-screenshot-2.png"
+    alt="Screenshot of Authentication Screen"
+    title="Screenshot of Authentication Screen"
   />
 </p>
 
