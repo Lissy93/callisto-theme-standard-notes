@@ -1,7 +1,6 @@
-# Callisto Theme for Standard Notes
 
-Dusty navy (`#0B1021`) and teal (`#00CCB4`) theme for [Standard Notes](https://standardnotes.org/).
-## Screenshots
+<h1 align="center">Callisto Theme for Standard Notes</h1>
+<p align="center"><i align="center">Dusty navy (<code>#0B1021</code>) and teal (<code>#00CCB4</code>) theme for <a href="https://standardnotes.org/">Standard Notes</a><i></p>
 
 <p align="center">
   <img src="https://i.ibb.co/PGTCTT1/sn-callisto-screenshot-1.png"
@@ -18,6 +17,7 @@ Dusty navy (`#0B1021`) and teal (`#00CCB4`) theme for [Standard Notes](https://s
 </p>
 
 ---
+
 ## Installation
 
 **Installation Link**: `https://github.com/Lissy93/callisto-theme-standard-notes/raw/master/callisto-theme.json`
