@@ -1,6 +1,6 @@
 
 <h1 align="center">Callisto Theme for Standard Notes</h1>
-<p align="center"><i>Dusty navy (<code>#0B1021</code>) and teal (<code>#00CCB4</code>) theme for <a href="https://standardnotes.org/">Standard Notes</a><i></p>
+<p align="center"><i>Dusty navy (<code>#0B1021</code>) and teal (<code>#00CCB4</code>) theme for <a href="https://standardnotes.org/">Standard Notes</a></i></p>
 
 <p align="center">
   <img src="https://i.ibb.co/PGTCTT1/sn-callisto-screenshot-1.png"
