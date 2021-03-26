@@ -13,6 +13,7 @@
   <img src="https://i.ibb.co/HGNr2f7/sn-callisto-screenshot-2.png"
     alt="Screenshot of Authentication Screen"
     title="Screenshot of Authentication Screen"
+    width="500"
   />
 </p>
 
