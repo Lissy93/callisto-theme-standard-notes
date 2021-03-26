@@ -1,4 +1,6 @@
 # Callisto Theme for Standard Notes
+
+Dusty navy (`#0B1021`) and teal (`#00CCB4`) theme for [Standard Notes](https://standardnotes.org/).
 ## Screenshots
 
 <p align="center">
@@ -22,6 +24,8 @@
 
 From the Standard Notes desktop app, go to Extensions (in the bottom left-hand corner), then Import Extension, paste the URL to the raw JSON file (see above) in, and hit enter, then when prompted click Install. You can now activate the theme, either from the extensions menu, or the theme switcher (lower left-hand corner in desktop, or the top of the draw menu on mobile).
 
+For more info, see the [docs](https://docs.standardnotes.org/usage/install-extensions/)
+
 <p align="center">
   <img src="https://i.ibb.co/rySG4fh/standard-notes-theme-installation.gif"
     alt="Screen theme recording of installation"
@@ -29,5 +33,5 @@ From the Standard Notes desktop app, go to Extensions (in the bottom left-hand c
   />
 </p>
 
-
+Feel free to raise an issue if you have any issues or questions :)
 
