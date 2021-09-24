@@ -1,4 +1,8 @@
- {
+---
+metatype: json
+---
+
+{
   "identifier": "io.github.xthursdayx.sn-callisto-theme",
   "name": "Callisto",
   "content_type": "SN|Theme",
