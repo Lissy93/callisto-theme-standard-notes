@@ -3,14 +3,14 @@
 <p align="center"><i>Dusty navy (<code>#0B1021</code>) and teal (<code>#00CCB4</code>) theme for <a href="https://standardnotes.org/">Standard Notes</a></i></p>
 
 <p align="center">
-  <img src="./screenshot.png"
+  <img src="https://github.com/xthursdayx/callisto-theme-standard-notes/blob/master/screenshot1.png"
     alt="Screenshot"
     title="Screenshot"
   />
 </p>
 
 <p align="center">
-  <img src="./screenshot-2.png"
+  <img src="https://github.com/xthursdayx/callisto-theme-standard-notes/blob/master/screenshot2.png"
     alt="Screenshot of Authentication Screen"
     title="Screenshot of Authentication Screen"
     width="500"
