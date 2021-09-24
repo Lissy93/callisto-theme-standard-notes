@@ -1,41 +1,59 @@
 :root {
-  --primary-bg-color: #0b1021;
-  --secondary-bg-color: #141b33;
-  --editor-bg-color: #0b1021;
-  --border-color: #092935;
-  --ui-text-color: #d8d8d8;
-  --sn-stylekit-info-color: #00af9a;
-  --sn-stylekit-info-contrast-color: var(--ui-text-color);
-  --sn-stylekit-neutral-color: #7c7c7c;
-  --sn-stylekit-neutral-contrast-color: var(--ui-text-color);
-  --sn-stylekit-success-color: #62d248;
-  --sn-stylekit-success-contrast-color: var(--ui-text-color);
-  --sn-stylekit-warning-color: #f6f000;
-  --sn-stylekit-warning-contrast-color: var(--ui-text-color);
-  --sn-stylekit-danger-color: #f80363;
-  --sn-stylekit-danger-contrast-color: var(--ui-text-color);
-  --sn-stylekit-shadow-color: var(--secondary-bg-color);
-  --sn-stylekit-background-color: var(--primary-bg-color);
-  --sn-stylekit-border-color: #060913;
-  --sn-stylekit-foreground-color: var(--ui-text-color);
-  --sn-stylekit-paragraph-text-color: var(--ui-text-color);
-  --sn-stylekit-contrast-background-color: var(--secondary-bg-color);
-  --sn-stylekit-contrast-foreground-color:var(--ui-text-color);
-  --sn-stylekit-contrast-border-color: var(--border-color);
-  --sn-stylekit-secondary-background-color: #060913;
-  --sn-stylekit-secondary-foreground-color:var(--ui-text-color);
-  --sn-stylekit-secondary-border-color: var(--border-color);
-  --sn-stylekit-secondary-contrast-background-color: #4f14ad;
-  --sn-stylekit-secondary-contrast-foreground-color: var(--ui-text-color);
-  --sn-stylekit-secondary-contrast-border-color: #4f14ad;
-  --sn-stylekit-editor-background-color: var(--primary-bg-color);
-  --sn-stylekit-editor-foreground-color: var(--ui-text-color);
-  --sn-stylekit-scrollbar-track-border-color: var(--border-color);
-  --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
-  --sn-desktop-titlebar-bg-color: var(--primary-bg-color);
-  --sn-desktop-titlebar-border-color: var(--border-color);
-  --sn-desktop-titlebar-ui-color: red;
-  --sn-desktop-titlebar-ui-hover-color: var(--sn-stylekit-info-color);
-}
+  
+  --bg-primary: #0b1021;
+  --bg-lighter: #141b33;
+  --bg-darker: #060913;
+  
+  --acsent: #00af9a;
+  --very-dark-acsent: #092935;
+  --third-acsent: #4f14ad;
+  
+  --white: #d8d8d8;
+  --bright-white: #d8d8d8;
+  --neutral: #7c7c7c;
+  --success: #62d248;
+  --warning: #f6f000;
+  --danger: #f80363;
+  
+  
+  
+  --primary-bg-color: var(--bg-primary);
+  --secondary-bg-color: var(--bg-lighter);
+  --editor-bg-color: var(--bg-primary);
+  --border-color: var(--very-dark-acsent);
+  --ui-text-color: var(--white);
+  --sn-stylekit-info-color: var(--acsent);
+  --sn-stylekit-info-contrast-color: var(--bright-white);
+  --sn-stylekit-neutral-color: var(--neutral);
+  --sn-stylekit-neutral-contrast-color: var(--bright-white);
+  --sn-stylekit-success-color: var(--success);
+  --sn-stylekit-success-contrast-color: var(--bright-white);
+  --sn-stylekit-warning-color: var(--warning);
+  --sn-stylekit-warning-contrast-color: var(--bright-white);
+  --sn-stylekit-danger-color: var(--danger);
+  --sn-stylekit-danger-contrast-color: var(--bright-white);
 
-/*# sourceMappingURL=dist.css.map */
+  --sn-desktop-titlebar-bg-color: var(--bg-primary);
+  --sn-desktop-titlebar-border-color: var(--very-dark-acsent);
+  --sn-desktop-titlebar-ui-color: red;//var(--white);
+  --sn-desktop-titlebar-ui-hover-color: var(--acsent);
+  
+  --sn-stylekit-shadow-color: var(--bg-lighter);
+  --sn-stylekit-background-color: var(--bg-primary);
+  --sn-stylekit-border-color: var(--bg-darker);
+  --sn-stylekit-foreground-color: var(--white);
+  --sn-stylekit-contrast-background-color: var(--bg-lighter);
+  --sn-stylekit-contrast-foreground-color: var(--white);
+  --sn-stylekit-contrast-border-color: var(--very-dark-acsent);
+  --sn-stylekit-secondary-background-color: var(--bg-darker);
+  --sn-stylekit-secondary-foreground-color: var(--white);
+  --sn-stylekit-secondary-border-color: var(--very-dark-acsent);
+  --sn-stylekit-secondary-contrast-background-color: var(--third-acsent);
+  --sn-stylekit-secondary-contrast-foreground-color: var(--white);
+  --sn-stylekit-secondary-contrast-border-color: var(--third-acsent);
+  --sn-stylekit-editor-background-color: var(--bg-color);
+  --sn-stylekit-editor-foreground-color: var(--white);
+  --sn-stylekit-paragraph-text-color: var(--white);
+  --sn-stylekit-scrollbar-track-border-color: var(--very-dark-acsent);
+  --sn-stylekit-scrollbar-thumb-color: var(--acsent);
+}
