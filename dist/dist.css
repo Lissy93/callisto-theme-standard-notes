@@ -1,22 +1,16 @@
 :root {
-  
   --bg-primary: #0b1021;
   --bg-lighter: #141b33;
   --bg-darker: #060913;
-  
   --acsent: #00af9a;
   --very-dark-acsent: #092935;
   --third-acsent: #4f14ad;
-  
   --white: #d8d8d8;
   --bright-white: #d8d8d8;
   --neutral: #7c7c7c;
   --success: #62d248;
   --warning: #f6f000;
   --danger: #f80363;
-  
-  
-  
   --primary-bg-color: var(--bg-primary);
   --secondary-bg-color: var(--bg-lighter);
   --editor-bg-color: var(--bg-primary);
@@ -32,12 +26,10 @@
   --sn-stylekit-warning-contrast-color: var(--bright-white);
   --sn-stylekit-danger-color: var(--danger);
   --sn-stylekit-danger-contrast-color: var(--bright-white);
-
   --sn-desktop-titlebar-bg-color: var(--bg-primary);
   --sn-desktop-titlebar-border-color: var(--very-dark-acsent);
-  --sn-desktop-titlebar-ui-color: red;//var(--white);
+  --sn-desktop-titlebar-ui-color: red;
   --sn-desktop-titlebar-ui-hover-color: var(--acsent);
-  
   --sn-stylekit-shadow-color: var(--bg-lighter);
   --sn-stylekit-background-color: var(--bg-primary);
   --sn-stylekit-border-color: var(--bg-darker);
@@ -57,3 +49,5 @@
   --sn-stylekit-scrollbar-track-border-color: var(--very-dark-acsent);
   --sn-stylekit-scrollbar-thumb-color: var(--acsent);
 }
+
+/*# sourceMappingURL=dist.css.map */
