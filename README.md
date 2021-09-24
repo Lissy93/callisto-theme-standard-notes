@@ -40,6 +40,6 @@ Feel free to raise an issue if you have any issues or questions :)
 
 ## Listed
 
-Callisto theme is also availible for [Listed](https://listed.to) blogs! Check out [the article](https://notes.aliciasykes.com/18756/custom-styling-for-listed-blog) or download [the CSS](https://listed.to/p/cp4JphXIAv)
+Callisto theme is also available for [Listed](https://listed.to) blogs! Check out [the article](https://notes.aliciasykes.com/18756/custom-styling-for-listed-blog) or download [the CSS](https://listed.to/p/cp4JphXIAv)
 
 ![Callisto Listed Theme](https://i.ibb.co/09522Rt/callisto-listed.png)
