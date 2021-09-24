@@ -1,12 +1,20 @@
 {
   "name": "sn-theme-callisto",
-  "version": "0.1.0",
-  "main": "main.css",
+  "description": "Dusty background with teal accents",
+  "version": "1.0.1",
+  "license": "AGPL-3.0",
+  "main": "dist/dist.css",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-newer": "^1.2.0",
+    "grunt-contrib-sass": "^1.0.0"
+  },
   "sn": {
-    "main": "main.css"
+    "main": "dist/dist.css"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lissy93/callisto-theme-standard-notes"
+    "url": "git://github.com/xthursdayx/callisto-theme-standard-notes.git"
   }
 }
