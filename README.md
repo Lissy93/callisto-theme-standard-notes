@@ -21,7 +21,7 @@
 
 ## Installation
 
-**Installation Link**: `https://raw.githubusercontent.com/Lissy93/callisto-theme-standard-notes/master/callisto-theme.json`
+**Installation Link**: `https://notes.aliciasykes.com/p/9Nggclsf0G`
 
 From the Standard Notes desktop app, go to Extensions (in the bottom left-hand corner), then Import Extension, paste the URL to the raw JSON file (see above) in, and hit enter, then when prompted click Install. You can now activate the theme, either from the extensions menu, or the theme switcher (lower left-hand corner in desktop, or the top of the draw menu on mobile).
 
