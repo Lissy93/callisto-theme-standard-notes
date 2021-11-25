@@ -1,7 +1,7 @@
 {
   "name": "sn-theme-callisto",
   "description": "Dusty background with teal accents",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "AGPL-3.0",
   "main": "dist/dist.css",
   "devDependencies": {
