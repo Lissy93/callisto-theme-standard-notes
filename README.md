@@ -51,11 +51,52 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
 #### Sponsors
 
 <!-- readme: sponsors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/vlad-timofeev">
+            <img src="https://avatars.githubusercontent.com/u/11474041?v=4" width="80;" alt="vlad-timofeev"/>
+            <br />
+            <sub><b>Vlad Timofeev</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/DylanBeMe">
+            <img src="https://avatars.githubusercontent.com/u/41838333?v=4" width="80;" alt="DylanBeMe"/>
+            <br />
+            <sub><b>DylanH</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/matthewjdegarmo">
+            <img src="https://avatars.githubusercontent.com/u/46715299?v=4" width="80;" alt="matthewjdegarmo"/>
+            <br />
+            <sub><b>Matthew J. DeGarmo</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: sponsors -end -->
 
 #### Contributors
 
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Lissy93">
+            <img src="https://avatars.githubusercontent.com/u/1862727?v=4" width="80;" alt="Lissy93"/>
+            <br />
+            <sub><b>Alicia Sykes</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/xthursdayx">
+            <img src="https://avatars.githubusercontent.com/u/18044308?v=4" width="80;" alt="xthursdayx"/>
+            <br />
+            <sub><b>Thursday</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
 
 ---
