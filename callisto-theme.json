@@ -1,7 +1,3 @@
----
-metatype: json
----
-
 {
   "identifier": "io.github.Lissy93.sn-callisto-theme",
   "name": "Callisto",
@@ -9,16 +5,16 @@ metatype: json
   "area": "themes",
   "version": "1.0.3",
   "description": "Dusty background with teal accents",
-  "url": "https://raw.githubusercontent.com/Lissy93/callisto-theme-standard-notes/master/dist/dist.css",
+  "url": "https://raw.githubusercontent.com/Lissy93/callisto-theme-standard-notes/master/callisto-standard-notes.css",
   "download_url": "https://github.com/Lissy93/callisto-theme-standard-notes/archive/1.0.3.zip",
   "latest_url": "https://raw.githubusercontent.com/Lissy93/callisto-theme-standard-notes/master/callisto-theme.json",
   "marketing_url": "https://github.com/Lissy93/callisto-theme-standard-notes",
   "thumbnail_url": "https://raw.githubusercontent.com/Lissy93/callisto-theme-standard-notes/master/screenshot1.png",
-	"dock_icon": {
-	"type": "circle",
-   	"background_color": "#0b1021",
-   	"foreground_color": "#d6085a",
-   	"border_color": "#1EE3B5"
-	},
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#0b1021",
+    "foreground_color": "#d6085a",
+    "border_color": "#1EE3B5"
+  },
   "statusBar": "dark-content"
 }

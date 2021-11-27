@@ -43,3 +43,23 @@ Feel free to raise an issue if you have any issues or questions :)
 Callisto theme is also available for [Listed](https://listed.to) blogs! Check out [the article](https://notes.aliciasykes.com/18756/custom-styling-for-listed-blog) or download [the CSS](https://listed.to/p/cp4JphXIAv)
 
 [![Callisto Listed Theme](https://i.ibb.co/09522Rt/callisto-listed.png)](https://notes.aliciasykes.com/)
+
+---
+
+## Credits
+
+#### Sponsors
+
+<!-- readme: sponsors -start -->
+<!-- readme: sponsors -end -->
+
+#### Contributors
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
+
+---
+
+## License
+
+Licensed under the [GNU Affero General Public License v3.0](https://github.com/Lissy93/callisto-theme-standard-notes/blob/master/LICENSE), © [Alicia Sykes](https://aliciasykes.com) 2021
