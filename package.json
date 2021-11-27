@@ -1,20 +1,33 @@
 {
   "name": "sn-theme-callisto",
-  "description": "Dusty background with teal accents",
+  "description": "Callisto theme for Standard Notes",
   "version": "1.0.3",
   "license": "AGPL-3.0",
-  "main": "dist/dist.css",
-  "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-contrib-watch": "^1.0.0",
-    "grunt-newer": "^1.2.0",
-    "grunt-contrib-sass": "^1.0.0"
-  },
+  "main": "callisto-standard-notes.css",
   "sn": {
-    "main": "dist/dist.css"
+    "main": "callisto-standard-notes.css"
+  },
+  "author": {
+    "name": "Alicia Sykes",
+    "email": "alicia@omg.lol",
+    "url": "http://aliciasykes.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/xthursdayx/callisto-theme-standard-notes.git"
-  }
+    "url": "git://github.com/lissy93/callisto-theme-standard-notes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lissy93/callisto-theme-standard-notes/issues",
+    "email": "report-bug@mail.alicia.omg.lol"
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/Lissy93"
+    },
+    {
+      "type": "individual",
+      "url": "https://notes.aliciasykes.com/tip"
+    }
+  ]
 }
