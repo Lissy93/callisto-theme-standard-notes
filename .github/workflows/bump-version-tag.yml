@@ -1,0 +1,28 @@
+# When changes are pushed to master then
+# bump the package.json version and create new tag
+name: 🏗️ Automated Version Bump & Tag Creation
+on:
+  push:
+    branches:
+      - master
+jobs:
+  bump-version:
+  runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses:  'phips28/gh-action-bump-version@master'
+      env:
+        GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+      with:
+        commit-message: '🏷️ Bumps version to {{version}}'
+        target-branch: 'master'
+        skip-tag: true
+        minor-wording:  'bump-minor-version'
+        major-wording:  'bump-major-version'
+        patch-wording:  'bump-patch-version'
+        rc-wording:     'make-alpha-version'
+    - uses: butlerlogic/action-autotag@stable
+      with:
+        GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        strategy: package
+        commit_message_template: "🔖 {{number}} {{message}} (by {{author}})\nSHA: {{sha}}\n."
