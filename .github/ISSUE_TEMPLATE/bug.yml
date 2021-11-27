@@ -1,0 +1,55 @@
+name: Bug Report 🐛
+description: Report something that's not displaying the way it's (probably) intended to
+title: '[BUG] <title>'
+labels: ['🐛 Bug']
+assignees:
+  - lissy93
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Category
+      description: What type of bug is this?
+      options:
+        - UI Glitch
+        - Functionality Issue
+        - Installation Problem
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Describe the problem
+      description: Please describe exactly what is not working, include the steps to reproduce, actual result and expected result
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Additional info
+      description: Screenshots? Logs? Yes, please.
+    validations:
+      required: false
+  - type: checkboxes
+    id: idiot-check
+    attributes:
+      label: Please tick the boxes
+      description: Before submitting, please ensure that
+      options:
+        - label: You are using either the latest or a recent version of Callisto theme
+          required: true
+        - label: You've checked that this [issue hasn't already been raised](https://github.com/Lissy93/callisto-theme-standard-notes/issues?q=is%3Aissue)
+          required: true
+        - label: You've checked the [docs](https://github.com/Lissy93/callisto-theme-standard-notes#installation), and followed the steps there
+          required: true
+        - label: You agree to the [code of conduct](https://github.com/Lissy93/callisto-theme-standard-notes/blob/master/.github/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct)
+          required: true
+  - type: markdown
+    attributes:
+      value: |-
+        ## Thanks 🙏
+        Sorry you are having issues with Callisto theme, and thank you for raising this ticket - in doing so you are helping to make it better for everyone 💪
+        You should expect a reply within the next 48 hours :)
+    validations:
+      required: false

@@ -1,0 +1,38 @@
+name: Question 🤷‍♂️
+description: Got a question about Dashy, deployment, development or usage?
+title: '[QUESTION] <title>'
+labels: ['🤷‍♂️ Question']
+
+body:
+  # Filed 1 - Intro Text
+  - type: markdown
+    attributes:
+      value: >
+        Thanks for using Callisto theme! Questions are welcome :)
+    validations:
+      required: false
+
+  # Field 2 - The actual question
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Outline your question in a clear and concise manner
+    validations:
+      required: true
+
+  # Field 3 - User has RTFM first, and agrees to code of conduct, etc
+  - type: checkboxes
+    id: idiot-check
+    attributes:
+      label: Please tick the boxes
+      description: Before submitting, please ensure that
+      options:
+        - label: You are using either the latest or a recent version of Callisto theme
+          required: true
+        - label: You've checked that this [issue hasn't already been raised](https://github.com/Lissy93/callisto-theme-standard-notes/issues?q=is%3Aissue)
+          required: true
+        - label: You've checked the [docs](https://github.com/Lissy93/callisto-theme-standard-notes#installation), and followed the steps there
+          required: true
+        - label: You agree to the [code of conduct](https://github.com/Lissy93/callisto-theme-standard-notes/blob/master/.github/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct)
+          required: true
