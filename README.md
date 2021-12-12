@@ -54,17 +54,17 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/BOZG">
+            <img src="https://avatars.githubusercontent.com/u/6022344?v=4" width="80;" alt="BOZG"/>
+            <br />
+            <sub><b>Stephen Rigney</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/vlad-timofeev">
             <img src="https://avatars.githubusercontent.com/u/11474041?v=4" width="80;" alt="vlad-timofeev"/>
             <br />
             <sub><b>Vlad Timofeev</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/DylanBeMe">
-            <img src="https://avatars.githubusercontent.com/u/41838333?v=4" width="80;" alt="DylanBeMe"/>
-            <br />
-            <sub><b>DylanH</b></sub>
         </a>
     </td>
     <td align="center">
