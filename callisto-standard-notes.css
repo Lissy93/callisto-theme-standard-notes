@@ -58,6 +58,7 @@
 }
 
 #notes-column .note:hover, .notes .note:hover {
+    background-color: var(--bg-darker);
     border-left: 3px solid #00af9a;
     transition: all 0.2s linear;
 }
