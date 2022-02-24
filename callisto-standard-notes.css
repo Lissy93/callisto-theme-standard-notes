@@ -30,6 +30,7 @@
   --sn-stylekit-warning-contrast-color: var(--bright-white);
   --sn-stylekit-danger-color: var(--danger);
   --sn-stylekit-danger-contrast-color: var(--bright-white);
+  --sn-stylekit-grey-5: var(--bg-darker);
 
   --sn-desktop-titlebar-bg-color: var(--bg-primary);
   --sn-desktop-titlebar-border-color: var(--very-dark-acsent);
@@ -54,4 +55,9 @@
   --sn-stylekit-paragraph-text-color: var(--white);
   --sn-stylekit-scrollbar-track-border-color: var(--very-dark-acsent);
   --sn-stylekit-scrollbar-thumb-color: var(--acsent);
+}
+
+#notes-column .note:hover, .notes .note:hover {
+    border-left: 3px solid #00af9a;
+    transition: all 0.2s linear;
 }
