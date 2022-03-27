@@ -57,7 +57,9 @@
   --sn-stylekit-scrollbar-thumb-color: var(--acsent);
 }
 
-#notes-column .note:hover, .notes .note:hover {
+// Fix for white color on notes in latest version
+#notes-column .note:hover, .notes .note:hover,
+#notes-column .note.selected, .notes .note.selected {
     background-color: var(--bg-darker);
     border-left: 3px solid #00af9a;
     transition: all 0.2s linear;
