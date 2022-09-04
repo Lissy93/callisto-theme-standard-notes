@@ -50,17 +50,28 @@
   --sn-stylekit-secondary-contrast-background-color: var(--third-acsent);
   --sn-stylekit-secondary-contrast-foreground-color: var(--white);
   --sn-stylekit-secondary-contrast-border-color: var(--third-acsent);
-  --sn-stylekit-editor-background-color: var(--bg-color);
+  --sn-stylekit-editor-background-color: var(--bg-primary);
   --sn-stylekit-editor-foreground-color: var(--white);
   --sn-stylekit-paragraph-text-color: var(--white);
   --sn-stylekit-scrollbar-track-border-color: var(--very-dark-acsent);
   --sn-stylekit-scrollbar-thumb-color: var(--acsent);
+  --sn-stylekit-passive-color-3: var(--neutral);
+  --sn-stylekit-passive-color-5: var(--bg-darker);
+  --navigation-item-selected-background-color: var(--third-acsent);
 }
 
-// Fix for white color on notes in latest version
+/* Fix for white color on notes in latest version */
 #notes-column .note:hover, .notes .note:hover,
 #notes-column .note.selected, .notes .note.selected {
     background-color: var(--bg-darker);
     border-left: 3px solid #00af9a;
     transition: all 0.2s linear;
+}
+
+/* Fixes for white color on lockscreen in latest version */
+[data-reach-dialog-overlay]::before {
+  opacity: 1;
+}
+.mb-4.h-30.w-30 circle {
+  fill: #141b33;
 }
