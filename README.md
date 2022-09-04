@@ -54,6 +54,49 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/Keloran">
+            <img src="https://avatars.githubusercontent.com/u/200350?v=4" width="80;" alt="Keloran"/>
+            <br />
+            <sub><b>Max Hooton</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/peng1can">
+            <img src="https://avatars.githubusercontent.com/u/225854?v=4" width="80;" alt="peng1can"/>
+            <br />
+            <sub><b>peng1can</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/emlazzarin">
+            <img src="https://avatars.githubusercontent.com/u/1141361?v=4" width="80;" alt="emlazzarin"/>
+            <br />
+            <sub><b>Eddy Lazzarin</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Geolim4">
+            <img src="https://avatars.githubusercontent.com/u/1332071?v=4" width="80;" alt="Geolim4"/>
+            <br />
+            <sub><b>Georges.L</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/k-rol">
+            <img src="https://avatars.githubusercontent.com/u/4050412?v=4" width="80;" alt="k-rol"/>
+            <br />
+            <sub><b>Carol Ouellet</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/UlisesGascon">
+            <img src="https://avatars.githubusercontent.com/u/5110813?v=4" width="80;" alt="UlisesGascon"/>
+            <br />
+            <sub><b>Ulises Gascón</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/BOZG">
             <img src="https://avatars.githubusercontent.com/u/6022344?u=a52f42b946a1e1156f7bb9d7f65e9e28bb2da89f&v=4" width="80;" alt="BOZG"/>
             <br />
@@ -61,10 +104,17 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Robert-Ernst">
-            <img src="https://avatars.githubusercontent.com/u/9050259?v=4" width="80;" alt="Robert-Ernst"/>
+        <a href="https://github.com/AdamXweb">
+            <img src="https://avatars.githubusercontent.com/u/6800453?v=4" width="80;" alt="AdamXweb"/>
             <br />
-            <sub><b>Robert Ernst</b></sub>
+            <sub><b>Adam Kostarelas</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/bmcgonag">
+            <img src="https://avatars.githubusercontent.com/u/7346620?v=4" width="80;" alt="bmcgonag"/>
+            <br />
+            <sub><b>Brian McGonagill</b></sub>
         </a>
     </td>
     <td align="center">
@@ -75,10 +125,68 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/matthewjdegarmo">
-            <img src="https://avatars.githubusercontent.com/u/46715299?u=65f979e86de9dce8a5fe04df9775d32c6cefd73a&v=4" width="80;" alt="matthewjdegarmo"/>
+        <a href="https://github.com/Byolock">
+            <img src="https://avatars.githubusercontent.com/u/25748003?v=4" width="80;" alt="Byolock"/>
             <br />
-            <sub><b>Matthew J. DeGarmo</b></sub>
+            <sub><b>Byolock</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/PAPAMICA">
+            <img src="https://avatars.githubusercontent.com/u/29079741?v=4" width="80;" alt="PAPAMICA"/>
+            <br />
+            <sub><b>Mickael Asseline</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/hugalafutro">
+            <img src="https://avatars.githubusercontent.com/u/30209689?v=4" width="80;" alt="hugalafutro"/>
+            <br />
+            <sub><b>hugalafutro</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/shadowking001">
+            <img src="https://avatars.githubusercontent.com/u/43928955?v=4" width="80;" alt="shadowking001"/>
+            <br />
+            <sub><b>LawrenceP.</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Hue899">
+            <img src="https://avatars.githubusercontent.com/u/67720949?v=4" width="80;" alt="Hue899"/>
+            <br />
+            <sub><b>NKA</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ratty222">
+            <img src="https://avatars.githubusercontent.com/u/92832598?v=4" width="80;" alt="ratty222"/>
+            <br />
+            <sub><b>Brent</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/undefined">
+            <img src="" width="80;" alt="undefined"/>
+            <br />
+            <sub><b>undefined</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jtfinley72">
+            <img src="https://avatars.githubusercontent.com/u/96497997?v=4" width="80;" alt="jtfinley72"/>
+            <br />
+            <sub><b>jtfinley72</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/CY0xZ">
+            <img src="https://avatars.githubusercontent.com/u/103884082?v=4" width="80;" alt="CY0xZ"/>
+            <br />
+            <sub><b>CY0xZ</b></sub>
         </a>
     </td></tr>
 </table>
@@ -108,6 +216,13 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <img src="https://avatars.githubusercontent.com/u/87835202?v=4" width="80;" alt="liss-bot"/>
             <br />
             <sub><b>Alicia Bot</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/pascalwei">
+            <img src="https://avatars.githubusercontent.com/u/103744505?v=4" width="80;" alt="pascalwei"/>
+            <br />
+            <sub><b>Pascal Weidenhammer</b></sub>
         </a>
     </td></tr>
 </table>
