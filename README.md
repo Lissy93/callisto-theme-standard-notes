@@ -141,7 +141,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
 <tr>
     <td align="center">
         <a href="https://github.com/iJasonWade">
-            <img src="https://avatars.githubusercontent.com/u/12824479?v=4" width="80;" alt="iJasonWade"/>
+            <img src="https://avatars.githubusercontent.com/u/12824479?u=8fa860e47bed4f84c8ff70cb2691d77edbb43d8f&v=4" width="80;" alt="iJasonWade"/>
             <br />
             <sub><b>Jason Ash</b></sub>
         </a>
