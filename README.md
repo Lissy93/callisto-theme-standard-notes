@@ -104,6 +104,13 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/BillyAlt">
+            <img src="https://avatars.githubusercontent.com/u/6921141?v=4" width="80;" alt="BillyAlt"/>
+            <br />
+            <sub><b>BillyAlt</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/bmcgonag">
             <img src="https://avatars.githubusercontent.com/u/7346620?u=2a0f9284f3e12ac1cc15288c254d1ec68a5081e8&v=4" width="80;" alt="bmcgonag"/>
             <br />
@@ -130,6 +137,14 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>DRXAquosus</b></sub>
         </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Just-Moh-it">
+            <img src="https://avatars.githubusercontent.com/u/48997634?v=4" width="80;" alt="Just-Moh-it"/>
+            <br />
+            <sub><b>Mohit Yadav</b></sub>
+        </a>
     </td>
     <td align="center">
         <a href="https://github.com/ratty222">
@@ -137,8 +152,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>Brent</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/jtfinley72">
             <img src="https://avatars.githubusercontent.com/u/96497997?v=4" width="80;" alt="jtfinley72"/>
