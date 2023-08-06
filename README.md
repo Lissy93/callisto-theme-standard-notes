@@ -133,7 +133,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
     </td>
     <td align="center">
         <a href="https://github.com/MikaPST">
-            <img src="https://avatars.githubusercontent.com/u/56961056?v=4" width="80;" alt="MikaPST"/>
+            <img src="https://avatars.githubusercontent.com/u/56961056?u=3da81a03cbe66a03bbb4afbf2751d71b7a94e28f&v=4" width="80;" alt="MikaPST"/>
             <br />
             <sub><b>Michaël</b></sub>
         </a>
@@ -162,17 +162,17 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/Lissy93">
-            <img src="https://avatars.githubusercontent.com/u/1862727?v=4" width="80;" alt="Lissy93"/>
-            <br />
-            <sub><b>Alicia Sykes</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/liss-bot">
             <img src="https://avatars.githubusercontent.com/u/87835202?v=4" width="80;" alt="liss-bot"/>
             <br />
             <sub><b>Alicia Bot</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Lissy93">
+            <img src="https://avatars.githubusercontent.com/u/1862727?v=4" width="80;" alt="Lissy93"/>
+            <br />
+            <sub><b>Alicia Sykes</b></sub>
         </a>
     </td>
     <td align="center">
