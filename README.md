@@ -173,6 +173,21 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>Tobias</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Glydeon">
+            <img src="https://avatars.githubusercontent.com/u/121807526?v=4" width="80;" alt="Glydeon"/>
+            <br />
+            <sub><b>Byron</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/NixyJuppie">
+            <img src="https://avatars.githubusercontent.com/u/138570196?v=4" width="80;" alt="NixyJuppie"/>
+            <br />
+            <sub><b>Nixy</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: sponsors -end -->
