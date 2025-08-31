@@ -181,14 +181,6 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <sub><b>Gl0bal01 💖 龴ↀ◡ↀ龴</b></sub>
         </a>
     </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/phishdestroy">
-            <img src="https://avatars.githubusercontent.com/u/208413058?u=d2a7f07fdebe6bdbde4b3141ca3ab958fbf0bae9&v=4" width="80;" alt="phishdestroy"/>
-            <br />
-            <sub><b>PhishDestroy</b></sub>
-        </a>
-    </td></tr>
 </table>
 <!-- readme: sponsors -end -->
 
