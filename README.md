@@ -154,13 +154,6 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Fovvy">
-            <img src="https://avatars.githubusercontent.com/u/136544445?u=6c68eb3b101b5481a05f85c01f9572abf61b1667&v=4" width="80;" alt="Fovvy"/>
-            <br />
-            <sub><b>~</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/hudsonrock-partnerships">
             <img src="https://avatars.githubusercontent.com/u/163282900?u=5f2667f7fe5d284ac7a2da6b0800ea8970b0fcbf&v=4" width="80;" alt="hudsonrock-partnerships"/>
             <br />
@@ -180,8 +173,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>Gl0bal01 💖 龴ↀ◡ↀ龴</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/mazzeroo">
             <img src="https://avatars.githubusercontent.com/u/217485921?v=4" width="80;" alt="mazzeroo"/>
