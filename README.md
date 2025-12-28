@@ -159,6 +159,13 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>Gl0bal01 💖 龴ↀ◡ↀ龴</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/JDB321Sailor">
+            <img src="https://avatars.githubusercontent.com/u/212125521?v=4" width="80;" alt="JDB321Sailor"/>
+            <br />
+            <sub><b>JDB321Sailor</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: sponsors -end -->
