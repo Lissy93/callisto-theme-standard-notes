@@ -155,7 +155,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
     </td>
     <td align="center">
         <a href="https://github.com/hesreallyhim">
-            <img src="https://avatars.githubusercontent.com/u/172150522?v=4" width="80;" alt="hesreallyhim"/>
+            <img src="https://avatars.githubusercontent.com/u/172150522?u=e288991976c46b53437a5880e90be140634a8477&v=4" width="80;" alt="hesreallyhim"/>
             <br />
             <sub><b>Really Him</b></sub>
         </a>
@@ -165,6 +165,13 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <img src="https://avatars.githubusercontent.com/u/173822055?u=4d323807f120b34da9b156bfd168b46a22844764&v=4" width="80;" alt="gl0bal01"/>
             <br />
             <sub><b>Gl0bal01 💖 龴ↀ◡ↀ龴</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/clj00321">
+            <img src="https://avatars.githubusercontent.com/u/243985327?v=4" width="80;" alt="clj00321"/>
+            <br />
+            <sub><b>Christian Løvgren Jensen</b></sub>
         </a>
     </td></tr>
 </table>
