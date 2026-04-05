@@ -100,7 +100,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
         <a href="https://github.com/elvito">
             <img src="https://avatars.githubusercontent.com/u/9715912?v=4" width="80;" alt="elvito"/>
             <br />
-            <sub><b>elvito</b></sub>
+            <sub><b>Elvito</b></sub>
         </a>
     </td>
     <td align="center">
@@ -119,7 +119,7 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
     </td>
     <td align="center">
         <a href="https://github.com/Daechler">
-            <img src="https://avatars.githubusercontent.com/u/50748803?v=4" width="80;" alt="Daechler"/>
+            <img src="https://avatars.githubusercontent.com/u/50748803?u=de67f2510378245669e134c508b676ea82e7688f&v=4" width="80;" alt="Daechler"/>
             <br />
             <sub><b>Daechler</b></sub>
         </a>
@@ -172,13 +172,6 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <img src="https://avatars.githubusercontent.com/u/173822055?u=8911ba88503c8b1d134dc0058e9e0bec5f23b8d9&v=4" width="80;" alt="gl0bal01"/>
             <br />
             <sub><b>Gl0bal01 💖 龴ↀ◡ↀ龴</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/UhOhSpaghettiCode">
-            <img src="https://avatars.githubusercontent.com/u/247676402?u=0bda2a0f4c134befbd89e26b6e8a749a5166d6bc&v=4" width="80;" alt="UhOhSpaghettiCode"/>
-            <br />
-            <sub><b>No Thanks</b></sub>
         </a>
     </td></tr>
 </table>
