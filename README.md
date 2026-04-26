@@ -154,6 +154,13 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/crmzx8">
+            <img src="https://avatars.githubusercontent.com/u/170860426?v=4" width="80;" alt="crmzx8"/>
+            <br />
+            <sub><b>CRMX8</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/LambdaTest-Inc">
             <img src="https://avatars.githubusercontent.com/u/171592363?u=080d9ba6069d0ff2a0558825ff2f667c45807687&v=4" width="80;" alt="LambdaTest-Inc"/>
             <br />
