@@ -61,6 +61,13 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/BrunoBernardino">
+            <img src="https://avatars.githubusercontent.com/u/1239616?v=4" width="80;" alt="BrunoBernardino"/>
+            <br />
+            <sub><b>Bruno Bernardino</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/bile0026">
             <img src="https://avatars.githubusercontent.com/u/5022496?u=aec96ad173c0ea9baaba93807efa8a848af6595c&v=4" width="80;" alt="bile0026"/>
             <br />
@@ -75,12 +82,20 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/nrjohnstone">
+            <img src="https://avatars.githubusercontent.com/u/6700819?v=4" width="80;" alt="nrjohnstone"/>
+            <br />
+            <sub><b>Nathan Johnstone</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/InDieTasten">
             <img src="https://avatars.githubusercontent.com/u/7047377?u=8d8f8017628b38bc46dcbf3620e194b01d3fb2d1&v=4" width="80;" alt="InDieTasten"/>
             <br />
             <sub><b>InDieTasten</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/araguaci">
             <img src="https://avatars.githubusercontent.com/u/7318668?v=4" width="80;" alt="araguaci"/>
@@ -94,8 +109,14 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>Brian McGonagill</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/elvito">
+            <img src="https://avatars.githubusercontent.com/u/9715912?v=4" width="80;" alt="elvito"/>
+            <br />
+            <sub><b>elvito</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/vlad-tim">
             <img src="https://avatars.githubusercontent.com/u/11474041?u=eee43705b54d2ec9f51fc4fcce5ad18dd17c87e4&v=4" width="80;" alt="vlad-tim"/>
@@ -116,7 +137,8 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>Daechler</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/undefined">
             <img src="" width="80;" alt="undefined"/>
@@ -137,11 +159,10 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>John BigoudOps</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/MichaelPerron">
-            <img src="https://avatars.githubusercontent.com/u/130603904?v=4" width="80;" alt="MichaelPerron"/>
+            <img src="https://avatars.githubusercontent.com/u/130603904?u=7c00e3e333b538bc86168cbfa72e997f818967b8&v=4" width="80;" alt="MichaelPerron"/>
             <br />
             <sub><b>Michael Perron</b></sub>
         </a>
@@ -159,7 +180,8 @@ Callisto theme is also available for [Listed](https://listed.to) blogs! Check ou
             <br />
             <sub><b>CRMX8</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/LambdaTest-Inc">
             <img src="https://avatars.githubusercontent.com/u/171592363?u=080d9ba6069d0ff2a0558825ff2f667c45807687&v=4" width="80;" alt="LambdaTest-Inc"/>
